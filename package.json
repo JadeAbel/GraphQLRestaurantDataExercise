@@ -1,7 +1,7 @@
 {
   "name": "expressgraphql01",
   "version": "1.0.0",
-  "description": "",
+  "description": "Week 24 - Set up GraphQL for restaurant data and add mutations to get and update the data.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,14 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
-    "graphql": "^15.3.0"
-  }
+    "graphql": "^15.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadeAbel/GraphQLRestaurantDataExercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JadeAbel/GraphQLRestaurantDataExercise/issues"
+  },
+  "homepage": "https://github.com/JadeAbel/GraphQLRestaurantDataExercise#readme"
 }
